@@ -26,4 +26,4 @@ The PubSub publish span is nested into the main trace as one could expect.
 
 ![GoCDK traces](gocdk_traces.png)
 
-![GoCDK main trace](gcp_main_trace.png)
+![GoCDK main trace](gocdk_main_trace.png)
